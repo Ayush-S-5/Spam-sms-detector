@@ -1,2 +1,2 @@
 # Spam-email-detector
-robust NLP-based email spam detector
+robust NLP-based spam message detector
